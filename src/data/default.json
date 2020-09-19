@@ -1,0 +1,22 @@
+{
+    "config": {
+		"_lang": "en-US",
+        "global.muteRole": null,
+        "invite.mute": false,
+        "welcomeMessage.channel": null,
+        "welcomeMessage.message": "Welcome %user%, glad to see you here !",
+        "goodbyeMessage.channel": null,
+        "goodbyeMessage.message": "%user% left us...",
+        "autoroles.roles": [],
+        "blacklist.words": [],
+        "modlog.channel": null,
+        "logging.channel": null,
+		"logging.events": [ "guildMemberAdd", "guildMemberRemove", "guildBanAdd", "guildBanRemove", "guildRoleCreate",  "guildRoleDelete", "guildRoleUpdate" ],
+		"spam.BasePressure": 10,
+		"spam.MaxPressure": 60,
+		"spam.PressureDecay": 2.5,
+		"spam.message": "%member% was detected as spamming, if this is an error, contact an admin.",
+		"rr.roles": []
+    },
+    "modules": [ "spam", "invite", "welcomeMessage", "goodbyeMessage", "autoroles", "blacklist", "modlog", "logging" ]
+}

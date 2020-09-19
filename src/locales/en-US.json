@@ -1,0 +1,15 @@
+{
+	"ERROR_NO_USER_MENTION": "Error: No user mentionned",
+	"ERROR_NO_ROLE_MENTION": "Error: No role mentionned",
+	"ERROR_NO_CHANNEL_MENTION": "Error: No channel mentionned",
+	"ERROR_NOT_ENOUGH_PARAMETERS": "Error: Not enough parameters",
+    "ERROR_LANG_NOT_EXIST": "Error: This lang don't exist",
+    "ERROR_UNKNOWN_KEY": "Error: Unknown key",
+    "ERROR_UNKNOWN_MODULE": "Error: Unknown module",
+    "ERROR_MODULE_ALREADY_ENABLED": "Error: This module was already enabled.",
+    "ERROR_MODULE_ALREADY_DISABLED": "Error: This module was already disabled.",
+    "LANG_CHANGED": "The server's language was changed",
+    "CONFIG_SET": "This config was changed.",
+    "MODULE_ENABLED": "The module %moduleName% is now enable.",
+	"MODULE_DISABLED": "The module %moduleName% is now disable."
+}

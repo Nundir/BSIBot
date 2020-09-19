@@ -1,0 +1,4 @@
+src/core/settings.json
+node_modules/*
+package-lock.json
+**/npm-debug.log*

@@ -1,0 +1,5 @@
+{
+    "ERROR_NO_USER_MENTION": "Erreur: Pas d'utilisateur mentionné",
+    "ERROR_LANG_NOT_EXIST": "Erreur: Cette langue n'existe pas",
+    "LANG_CHANGED": "La langue du serveur à bien été changée"
+}
